@@ -1,0 +1,12 @@
+{
+    "name": "simple-tool-tip-react",
+    "version": "1.0.0",
+    "description": "A simple lightweight tool tip made with React",
+    "main": "./lib/ToolTip.js",
+    "scripts": {
+        "build": "webpack"
+    },
+    "keywords": ["tooltip", "tool-tip"],
+    "author": "Nathan Brickett",
+    "license": "ISC"
+}
